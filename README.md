@@ -13,9 +13,9 @@ Author: Shen Dong
 7. Standard game rules
 
 
-![](./Screen_Shot_1.png)
-![](./Screen_Shot_2.png)
-![](./Screen_Shot_3.png)
+![](./Screen_Shot_1.png =120)
+![](./Screen_Shot_2.png =120)
+![](./Screen_Shot_3.png =120)
 ![](./classicMineSweeper_demo.gif)
 
 
