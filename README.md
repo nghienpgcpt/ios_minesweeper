@@ -12,10 +12,9 @@ Author: Shen Dong
 6. scrollable and zoomable game area
 7. Standard game rules
 
-
-![](./Screen_Shot_1.png =100x40)
-![](./Screen_Shot_2.png =100x40)
-![](./Screen_Shot_3.png =100x40)
 ![](./classicMineSweeper_demo.gif)
+![](./Screen_Shot_1.png)
+![](./Screen_Shot_2.png)
+![](./Screen_Shot_3.png)
 
 
