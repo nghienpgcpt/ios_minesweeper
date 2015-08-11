@@ -3,6 +3,10 @@ Classic mine sweeper in ios
 
 Author: Shen Dong
 
+# License
+
+MIT License
+
 # Intro
 1. Board Difficulty Control (3 levels)
 2. Countdown timer
